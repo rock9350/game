@@ -1,0 +1,9 @@
+#main {
+ display: grid;
+ grid-template-columns: 30px 30px 30px 30px 30px 30px 30px 30px 30px;
+ border: 2px solid black;
+ width: 21.5%;
+ padding: 10px;
+ row-gap: 3px;
+ column-gap: 3px;
+}
